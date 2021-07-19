@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mars
-- 👀 I’m interested in coding, software development and cyber security to be exact. I'd really just like to learn how to put a functioning program together.
+- 👋 Hi, I’m mrhoneybunny
+- 👀 I’m interested in coding, software development and cyber security to be exact.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on what resources, guides, and material that will help expedite my knowledge of this field
 - 📫 How to reach me : Here!
